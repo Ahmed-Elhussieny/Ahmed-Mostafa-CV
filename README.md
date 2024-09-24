@@ -92,20 +92,16 @@
  </ul>   
     <h3>Cairo Medical</h3>
       <li>Build and create the official company Website, individual work from the scratch.</li>
-    </ul>
     <h3>WhiTech (Meat and More) KSA Project</h3>
       <li>Create, plan and manage the first red Friday sale campaign.</li>
       <li>Applying a new concept of selling sacrifices by KG for the first time in Saudi Arabia.</li>
       <li>Build the new website theme and identity for Meat and More brand.</li>
-    </ul>
     <h3>Oraimo Egypt</h3>
       <li>Create, plan and manage the first flash sale campaign.</li>
       <li>Create, plan and manage the first bundles sale campaign.</li>
-    </ul>
     <h3>vivo Smartphone</h3>
       <li>By our hand vivo Egypt became the center point for the Middle East and Africa.</li>
       <li>Handle the Middle East and Africa contact center project.</li>
-    </ul>
     <h3>Jumia Egypt</h3>
       <li>By our hand Jumia Egypt became the Top 1 E-commerce website all over Egypt.</li>
       <li>By our hand Jumia Egypt became the Top 2 in the internal global ranking.</li>
