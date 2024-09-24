@@ -177,7 +177,6 @@
         <li>Android Mobile Certification</li>
         <li>Graphic Design at Model of UNESCO Simulation</li>
     </ul>
- </section>
   <footer>
     <p>&copy; 2024 Ahmed Mostafa El-Hussieny</p>
   </footer>
