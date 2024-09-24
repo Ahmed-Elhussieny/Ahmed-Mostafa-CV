@@ -1,4 +1,3 @@
-</head>
 <body>
     <h1>Ahmed Mostafa El-Hussieny</h1>
     <p>E-commerce and Marketing Manager</p>
