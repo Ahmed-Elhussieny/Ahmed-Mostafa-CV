@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 </head>
 <body>
     <h1>Ahmed Mostafa El-Hussieny</h1>
