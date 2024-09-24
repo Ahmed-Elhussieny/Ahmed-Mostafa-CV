@@ -105,8 +105,7 @@
     <h3>Jumia Egypt</h3>
       <li>By our hand Jumia Egypt became the Top 1 E-commerce website all over Egypt.</li>
       <li>By our hand Jumia Egypt became the Top 2 in the internal global ranking.</li>
-
-</ul>
+   </ul> 
     <h2>Education</h2>
     <p>Bachelor of Commerce, Accounting, Cairo University – Faculty of Commerce, Graduation Year: 2018</p>
     <h2>Languages</h2>
