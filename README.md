@@ -89,14 +89,30 @@
             <li>Establishing companies and preparing records.</li>
         </ul>
     </div>
-    <h2>Key Accomplishments</h2>
-    <ul>
-        <li>Cairo Medical: Build and create the official company website, individual work from the scratch.</li>
-        <li>WhiTech (Meat and More) KSA Project: Create, plan and manage the first red Friday sale campaign. Applying a new concept of selling sacrifices by KG for the first time in Saudi Arabia. Build the new website theme and identity for Meat and More brand.</li>
-        <li>Oraimo Egypt: Create, plan and manage the first flash sale campaign. Create, plan and manage the first bundles sale campaign.</li>
-        <li>vivo Smartphone: By our hand vivo Egypt became the center point for the Middle East and Africa. Handle the Middle East and Africa contact center project.</li>
-        <li>Jumia Egypt: By our hand Jumia Egypt became the Top 1 E-commerce website all over Egypt. By our hand Jumia Egypt became the Top 2 in the internal global ranking.</li>
+   <h2 align="left">Key Accomplishments</h2>
+<ul>
+ </ul>   
+    <h3>Cairo Medical</h3>
+      <li>Build and create the official company Website, individual work from the scratch.</li>
     </ul>
+    <h3>WhiTech (Meat and More) KSA Project</h3>
+      <li>Create, plan and manage the first red Friday sale campaign.</li>
+      <li>Applying a new concept of selling sacrifices by KG for the first time in Saudi Arabia.</li>
+      <li>Build the new website theme and identity for Meat and More brand.</li>
+    </ul>
+    <h3>Oraimo Egypt</h3>
+      <li>Create, plan and manage the first flash sale campaign.</li>
+      <li>Create, plan and manage the first bundles sale campaign.</li>
+    </ul>
+    <h3>vivo Smartphone</h3>
+      <li>By our hand vivo Egypt became the center point for the Middle East and Africa.</li>
+      <li>Handle the Middle East and Africa contact center project.</li>
+    </ul>
+    <h3>Jumia Egypt</h3>
+      <li>By our hand Jumia Egypt became the Top 1 E-commerce website all over Egypt.</li>
+      <li>By our hand Jumia Egypt became the Top 2 in the internal global ranking.</li>
+
+</ul>
     <h2>Education</h2>
     <p>Bachelor of Commerce, Accounting, Cairo University – Faculty of Commerce, Graduation Year: 2018</p>
     <h2>Languages</h2>
