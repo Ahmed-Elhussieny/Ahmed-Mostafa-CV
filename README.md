@@ -13,6 +13,15 @@
     <p>Successful marketing leader with proven accomplishments in driving growth and increasing profits. Articulate and driven leader with high energy and engaging personality. Hardworking team builder motivational in maximizing personnel performance and surpassing business objectives.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
+        <h3>MTN - Manage The Now (Dec 2024 – Present)</h3>
+<ul>
+    <li>Develop and implement the company's website structure, ensuring it aligns with business objectives and user experience best practices.</li>
+    <li>Monitor and analyze website traffic data to identify trends, opportunities, and areas for improvement.</li>
+    <li>Coordinate with the creative, web development, and marketing teams to ensure seamless integration of design, functionality, and marketing strategies.</li>
+    <li>Oversee all company online platforms, including the website, mobile app, and social media channels.</li>
+    <li>Conduct regular website performance tests to identify and resolve any issues that may impact user experience and conversion rates.</li>
+    <li>User Experience Optimization: Continuously evaluate and improve the website's user experience to enhance conversion rates and customer satisfaction.</li>
+</ul>
         <h3>Marketing Manager, Cairo Medical (Feb 2024 – Present)</h3>
         <ul>
             <li>Build, create and manage the company website.</li>
