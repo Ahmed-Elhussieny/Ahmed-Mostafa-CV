@@ -13,7 +13,7 @@
     <p>Successful marketing leader with proven accomplishments in driving growth and increasing profits. Articulate and driven leader with high energy and engaging personality. Hardworking team builder motivational in maximizing personnel performance and surpassing business objectives.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
-        <h3>MTN - Manage The Now (Dec 2024 – Present)</h3>
+        <h3>Ecommerce Manager, MTN - Manage The Now (Dec 2024 – Present)</h3>
 <ul>
     <li>Develop and implement the company's website structure, ensuring it aligns with business objectives and user experience best practices.</li>
     <li>Monitor and analyze website traffic data to identify trends, opportunities, and areas for improvement.</li>
@@ -34,7 +34,7 @@
             <li>Optimized website content for improved search engine rankings and increased web traffic.</li>
             <li>Developed and implemented marketing strategies to use for launches, rebranding campaigns and promotions.</li>
         </ul>
-        <h3>E-commerce Content Manager, WhiTech, IPSUM Marketing Agency (KSA) (Nov 2022 – Dec 2023)</h3>
+        <h3>Ecommerce Content Manager, WhiTech, IPSUM Marketing Agency (KSA) (Nov 2022 – Dec 2023)</h3>
         <ul>
             <li>Boosted online sales by implementing targeted marketing campaigns and optimizing website content.</li>
             <li>Managed inventory control processes for seamless order fulfillment and customer satisfaction.</li>
@@ -47,7 +47,7 @@
             <li>Customized e-commerce platforms by building new products, designing landing pages and enhancing website navigation.</li>
             <li>Tracked consumer behavior, content management and weight of purchase to develop robust customer acquisition and retention programs.</li>
         </ul>
-        <h3>E-commerce Assistant Manager , TRANSSION Holdings, Oraimo Brand (Mar 2022 – Oct 2022)</h3>
+        <h3>Ecommerce Assistant Manager , TRANSSION Holdings, Oraimo Brand (Mar 2022 – Oct 2022)</h3>
         <ul>
             <li>Manage all online activity in relation to traffic acquisition, sales, and conversion.</li>
             <li>Enhanced customer satisfaction by efficiently managing and resolving e-commerce-related issues.</li>
