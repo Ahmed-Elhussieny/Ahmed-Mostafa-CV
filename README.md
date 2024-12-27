@@ -5,7 +5,7 @@
         <p>Address: New Cairo City at The Fifth Settlement</p>
         <p>Mobile: +201068418714</p>
         <p>Email: <a href="mailto:ahmed.elhussieny95@gmail.com">ahmed.elhussieny95@gmail.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-mostafa-/">Ahmed Mostafa | LinkedIn</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-mostafa-elhussieny/">Ahmed Mostafa | LinkedIn</a></p>
         <p>Date of Birth: 9/12/1995</p>
         <p>Military Status: Fulfilled</p>
     </div>
