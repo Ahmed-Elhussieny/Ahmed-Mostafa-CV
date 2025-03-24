@@ -1,6 +1,6 @@
 <body>
     <h1>Ahmed Mostafa El-Hussieny</h1>
-    <p>E-commerce and Marketing Manager</p>
+    <p>E-commerce Marketing Manager</p>
     <div class="contact-info">
         <p>Address: New Cairo City at The Fifth Settlement</p>
         <p>Mobile: +201068418714</p>
@@ -13,6 +13,18 @@
     <p>Successful marketing leader with proven accomplishments in driving growth and increasing profits. Articulate and driven leader with high energy and engaging personality. Hardworking team builder motivational in maximizing personnel performance and surpassing business objectives.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
+        <h3>E-commerce Supervisor, BEYMEN (Mar 2025 – Present)</h3>
+<ul>
+    <li>Develop and manage Beymen Egypt’s e-commerce platform in coordination with local and Türkiye teams.</li>
+    <li>Execute online sales and marketing strategies aligned with company objectives.</li>
+    <li>Analyze website performance and sales data to optimize key metrics and drive revenue growth.</li>
+    <li>Plan and oversee e-commerce activations for major sales events, ensuring localized execution of global campaigns.</li>
+    <li>Collaborate with sales planning to maintain stock availability and manage on-site merchandising.</li>
+    <li>Work closely with the Türkiye e-commerce team to enhance digital performance and customer experience.</li>
+    <li>Monitor and improve customer acquisition, retention, and overall e-commerce efficiency.</li>
+    <li>Support omnichannel initiatives, marketplace expansion, and online wholesale opportunities.</li>
+    <li>Oversee customer service processes, ensuring seamless order management, fraud prevention, and after-sales support.</li>
+</ul>
         <h3>Marketing Manager, Cairo Medical (Feb 2024 – Present)</h3>
         <ul>
             <li>Build, create and manage the company website.</li>
