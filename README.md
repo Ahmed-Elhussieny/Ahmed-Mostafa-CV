@@ -13,7 +13,7 @@
     <p>Successful marketing leader with proven accomplishments in driving growth and increasing profits. Articulate and driven leader with high energy and engaging personality. Hardworking team builder motivational in maximizing personnel performance and surpassing business objectives.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
-        <h3>E-commerce Supervisor, BEYMEN (Mar 2025 – Present)</h3>
+        <h3>E-commerce Manager, Beymen Egypt (Mar 2025 – Present)</h3>
 <ul>
     <li>Develop and manage Beymen Egypt’s e-commerce platform in coordination with local and Türkiye teams.</li>
     <li>Execute online sales and marketing strategies aligned with company objectives.</li>
