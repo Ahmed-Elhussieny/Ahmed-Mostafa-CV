@@ -104,6 +104,7 @@
  </ul>   
     <h3>Cairo Medical</h3>
       <li>Build and create the official company Website, individual work from the scratch.</li>
+      <li>•	Planning more than 4 successful events.</li>
     <h3>WhiTech (Meat and More) KSA Project</h3>
       <li>Create, plan and manage the first red Friday sale campaign.</li>
       <li>Applying a new concept of selling sacrifices by KG for the first time in Saudi Arabia.</li>
