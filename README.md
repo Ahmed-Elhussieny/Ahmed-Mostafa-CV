@@ -10,7 +10,7 @@
         <p>Military Status: Fulfilled</p>
     </div>
     <h2>Personal Profile</h2>
-    <p>Successful marketing leader with proven accomplishments in driving growth and increasing profits. Articulate and driven leader with high energy and engaging personality. Hardworking team builder motivational in maximizing personnel performance and surpassing business objectives.</p>
+    <p>Results-driven and detail-oriented E-commerce and Marketing professional with over 7 years of diverse experience across digital commerce, brand strategy, customer experience, and omnichannel operations. Proven track record in driving online sales growth, optimizing digital platforms, and leading cross-functional teams to deliver exceptional customer experiences.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
         <h3>E-commerce Manager, Beymen Egypt (Mar 2025 – Present)</h3>
