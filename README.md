@@ -141,7 +141,7 @@
         <li>OMS</li>
         <li>Zendesk</li>
         <li>Salesforce</li>
-        <li>Unironic</li>
+        <li>Unifonic</li>
         <li>Jira</li>
     </ul>
     <h2>Skills</h2>
