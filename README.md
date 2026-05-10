@@ -1,6 +1,6 @@
 <body>
     <h1>Ahmed Mostafa El-Hussieny</h1>
-    <p>E-commerce Marketing Manager</p>
+    <p>E-commerce Manager</p>
     <div class="contact-info">
         <p>Address: New Cairo City at The Fifth Settlement</p>
         <p>Mobile: +201068418714</p>
@@ -99,6 +99,29 @@
             <li>Establishing companies and preparing records.</li>
         </ul>
     </div>
+
+<h2>Freelance Projects</h2>
+
+<ul>
+    <li>
+        Create 
+        <a href="https://nordixglobal.com/" target="_blank">
+            Nordix Global
+        </a>, Scandinavian Lifestyle Products.
+    </li>
+    <li>
+        Create 
+        <a href="https://fixandklint.com/" target="_blank">
+            Fix &amp; Klint
+        </a>, White Nicotine Pouches Website.
+    </li>
+<li>
+        Create 
+        <a href="https://pharmaimage.com.eg/" target="_blank">
+            Pharma Image
+        </a>, Skincare &amp; Cosmetics Website.
+    </li>
+
    <h2 align="left">Key Accomplishments</h2>
 <ul>
  </ul>
@@ -192,8 +215,9 @@
         <li>Android Mobile Certification</li>
         <li>Graphic Design at Model of UNESCO Simulation</li>
     </ul>
+    <br>
   <footer>
-    <p>&copy; 2025 Ahmed Mostafa El-Hussieny</p>
+    <p>&copy; 2026 Ahmed Mostafa El-Hussieny</p>
   </footer>
 </body>
 
