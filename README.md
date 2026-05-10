@@ -13,7 +13,7 @@
     <p>Results-driven and detail-oriented E-commerce and Marketing professional with over 7 years of diverse experience across digital commerce, brand strategy, customer experience, and omnichannel operations. Proven track record in driving online sales growth, optimizing digital platforms, and leading cross-functional teams to deliver exceptional customer experiences.</p>
     <h2>Previous Experience</h2>
     <div class="experience">
-        <h3>E-commerce Manager, Beymen Egypt (Mar 2025 – Present – Full Time)</h3>
+        <h3>E-commerce Manager, <a href="https://beymen.eg">Beymen Egypt</a> (Mar 2025 – Present – Full Time)</h3>
 <ul>
     <li>Develop and manage Beymen Egypt’s e-commerce platform in coordination with local and Türkiye teams.</li>
     <li>Execute online sales and marketing strategies aligned with company objectives.</li>
@@ -25,7 +25,7 @@
     <li>Support omnichannel initiatives, marketplace expansion, and online wholesale opportunities.</li>
     <li>Oversee customer service processes, ensuring seamless order management, fraud prevention, and after-sales support.</li>
 </ul>
-        <h3>Marketing Manager, Cairo Medical (Feb 2024 – Present – Part Time)</h3>
+        <h3>Marketing Manager, <a href="https://cairomedical.com.eg/">Cairo Medical</a> (Feb 2024 – Present – Part Time)</h3>
         <ul>
             <li>Build, create and manage the company website.</li>
             <li>Boosted brand awareness and generated leads while managing internal and external marketing campaigns and programs.</li>
@@ -37,7 +37,7 @@
             <li>Optimized website content for improved search engine rankings and increased web traffic.</li>
             <li>Developed and implemented marketing strategies to use for launches, rebranding campaigns and promotions.</li>
         </ul>
-        <h3>Ecommerce Content Manager, WhiTech, IPSUM Marketing Agency (KSA) (Nov 2022 – Dec 2023 – Full Time)</h3>
+        <h3>Ecommerce Content Manager, WhiTech, IPSUM Marketing Agency - <a href="https://meats.com.sa/">Meat and More</a> (KSA) (Nov 2022 – Dec 2023 – Full Time)</h3>
         <ul>
             <li>Boosted online sales by implementing targeted marketing campaigns and optimizing website content.</li>
             <li>Managed inventory control processes for seamless order fulfillment and customer satisfaction.</li>
@@ -50,7 +50,7 @@
             <li>Customized e-commerce platforms by building new products, designing landing pages and enhancing website navigation.</li>
             <li>Tracked consumer behavior, content management and weight of purchase to develop robust customer acquisition and retention programs.</li>
         </ul>
-        <h3>Ecommerce Assistant Manager , TRANSSION Holdings, Oraimo Brand (Mar 2022 – Oct 2022 – Full Time)</h3>
+        <h3>Ecommerce Assistant Manager , TRANSSION Holdings, <a href="https://eg.oraimo.com/">Oraimo</a> Brand (Mar 2022 – Oct 2022 – Full Time)</h3>
         <ul>
             <li>Manage all online activity in relation to traffic acquisition, sales, and conversion.</li>
             <li>Enhanced customer satisfaction by efficiently managing and resolving e-commerce-related issues.</li>
@@ -62,7 +62,7 @@
             <li>Optimized e-commerce fulfillment strategy to minimize costs while maximizing profits and customer satisfaction.</li>
             <li>Follow up with service center to handle the customer's complaints.</li>
         </ul>
-        <h3>MEA Contact Center SME, vivo Smartphone (Sep 2020 – Feb 2022 – Full Time)</h3>
+        <h3>MEA Contact Center SME, <a href="https://www.vivo.com/eg/ar">vivo</a> Smartphone (Sep 2020 – Feb 2022 – Full Time)</h3>
         <ul>
             <li>Audit team tickets, prepare the quality report and reporting to MEA CCM.</li>
             <li>Training and guiding online contact center agents all over MEA.</li>
@@ -75,7 +75,7 @@
             <li>Handling tickets (Facebook - WhatsApp - Instagram - Live Chat).</li>
             <li>Return visit survey and new devices survey.</li>
         </ul>
-        <h3>Customer Experience Specialist, Jumia (Nov 2018 – Jun 2019 – Full Time)</h3>
+        <h3>Customer Experience Specialist, <a href="https://www.jumia.com.eg/">Jumia</a> (Nov 2018 – Jun 2019 – Full Time)</h3>
         <ul>
             <li>Monitor outbound calls and evaluates agent's performance.</li>
             <li>Preparing the quality report and reporting to CCM.</li>
