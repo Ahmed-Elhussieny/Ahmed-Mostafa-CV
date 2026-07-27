@@ -219,5 +219,4 @@
   <footer>
     <p>&copy; 2026 Ahmed Mostafa El-Hussieny</p>
   </footer>
-</body>
 
